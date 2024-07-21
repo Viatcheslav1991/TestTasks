@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <WatchScripts>
+        <WatchScript>
+            <Script>DateTime.Now.ToString("MMMM");</Script>
+        </WatchScript>
+    </WatchScripts>
+    <Ignored />
+    <Breakpoints />
+    <BreakpointLines />
+    <Git />
+    <LastOpenedItems>
+        <string>C:\Users\79026\Desktop\Тестовое камаз\Задание 1\EnterStr\Main.ltw</string>
+    </LastOpenedItems>
+</LTProjectResources>

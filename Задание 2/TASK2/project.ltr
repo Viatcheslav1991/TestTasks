@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <WatchScripts />
+    <Ignored />
+    <Breakpoints>
+        <KeyValueItem>
+            <Key>C:\Users\79026\Desktop\Тестовое камаз\Задание 2\TASK2\Framework\Process.ltw</Key>
+            <Value>437b0b8b-ce6d-4978-a3b0-38e8506dea7d</Value>
+        </KeyValueItem>
+    </Breakpoints>
+    <BreakpointLines />
+    <Git />
+    <LastOpenedItems>
+        <string>C:\Users\79026\Desktop\Тестовое камаз\Задание 2\TASK2\Main.ltw</string>
+        <string>C:\Users\79026\Desktop\Тестовое камаз\Задание 2\TASK2\Framework\Process.ltw</string>
+        <string>C:\Users\79026\Desktop\Тестовое камаз\Задание 2\TASK2\Framework\InitAllApplications.ltw</string>
+        <string>C:\Users\79026\Desktop\Тестовое камаз\Задание 2\TASK2\Framework\KillAllProcesses.ltw</string>
+        <string>C:\Users\79026\Desktop\Тестовое камаз\Задание 2\TASK2\Process\AddRow.ltw</string>
+        <string>C:\Users\79026\Desktop\Тестовое камаз\Задание 2\TASK2\Process\AddText.ltw</string>
+        <string>C:\Users\79026\Desktop\Тестовое камаз\Задание 2\TASK2\Process\SaveFile.ltw</string>
+    </LastOpenedItems>
+</LTProjectResources>
